@@ -1,0 +1,8 @@
+
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1
+$ git init
+Initialized empty Git repository in D:/Angular/GITHUB_MySample1/.git/
+
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1 (master)
+$
+
