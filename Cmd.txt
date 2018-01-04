@@ -1,8 +1,47 @@
-
-xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
 $ git init
-Initialized empty Git repository in D:/Angular/GITHUB_MySample1/.git/
+Reinitialized existing Git repository in D:/Angular/GITHUB_MySample1/MySample1/.                                                                                                                           git/
 
-xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1 (master)
-$
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
+$ git add *
 
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
+$ git commit -m 'gh'
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
+$ git push
+remote: Permission to poovika/MySample1.git denied to GopiTheContributer.
+fatal: unable to access 'https://github.com/poovika/MySample1.git/': The request                                                                                                                           ed URL returned error: 403
+
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
+$ git push
+Logon failed, use ctrl+c to cancel basic credential prompt.
+Username for 'https://github.com': bpoovika@gmail.com
+poovika24
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 420 bytes | 420.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/poovika/MySample1.git
+   d9af644..2a1a4ff  master -> master
+
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
+$ poovika24
+bash: poovika24: command not found
+
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
+$ git push
+Everything up-to-date
+
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
+$ git pull
+Already up to date.
+
+xpbaskaran4@LDO-PKT-PC2079 MINGW64 /d/Angular/GITHUB_MySample1/MySample1 (master                                                                                                                           )
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
